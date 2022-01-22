@@ -1,0 +1,15 @@
+{
+    "parent": "item/template_skull",
+    "display": {
+        "gui": {
+            "translation": [ -2, 2, 0 ],
+            "rotation": [ 30, 45, 0 ],
+            "scale": [ 2.4, 2.4, 2.4 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, -1, 2 ],
+            "scale": [ 2, 2, 2 ]
+        }
+    }
+}
